@@ -1,4 +1,7 @@
 # LeetCode
+Link-EN：https://leetcode.com/problemset/algorithms/
+Link-CN：https://leetcode-cn.com/problemset/algorithms/
+算法类 总共911条
 
 1.为了公众号读者查阅代码方便 ，小詹在公号更新后会稍作延迟将代码整理到本仓库 。
 
